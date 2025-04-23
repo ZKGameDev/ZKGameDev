@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @hnrzzk
-- 👀 I’m interested in NetWork And Java
-- 🌱 I’m currently learning Kcp
+- 👀 I’m interested in game network synchronization
 
 <!---
 hnrzzk/hnrzzk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
