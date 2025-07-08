@@ -1,8 +1,8 @@
 👋 Hi, I’m @hnrzzk | Game Server Dev  
 🚀 Building **competitive FPS & ACT/ARPG game servers** with latency-sensitive synchronization.
 
-🔧 **Core Stack**
-`Java` · `Physx` · `TCP/KCP Hybrid` · `Mongo/Redis/Mysql` · `Entity-Component-System (ECS)` · **`Snapshot Synchronization`
+🔧 **Core Stack**  
+`Java` · `Physx` · `TCP/KCP Hybrid` · `Mongo/Redis/Mysql` · `Entity-Component-System (ECS)` · `Snapshot Synchronization`
 
 👀 **Interested in**  
 - Game network synchronization
