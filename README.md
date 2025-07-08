@@ -1,4 +1,4 @@
-👋 Hi, I’m @hnrzzk | Game Server Dev  
+👋 Hi, I’m zk | Game Server Dev  
 🚀 Building **competitive FPS & ACT/ARPG game servers** with latency-sensitive synchronization.
 
 🔧 **Core Stack**  
