@@ -1,5 +1,5 @@
 👋 Hi, I’m zk | Game Server Dev  
-🚀 Building **competitive FPS & ACT/ARPG game servers** with latency-sensitive synchronization.
+🚀 Architecting **competitive FPS & ACT/ARPG game servers** with latency-sensitive synchronization.
 
 🔧 **Core Stack**  
 `Java` · `Physx` · `TCP/KCP Hybrid` · `Mongo/Redis/Mysql` · `Entity-Component-System (ECS)` · `Snapshot Synchronization`
